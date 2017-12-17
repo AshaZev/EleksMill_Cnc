@@ -1,12 +1,14 @@
 (by AshaZev 2017/12/11)
-(last modified 2017/12/11)
+(last modified 2017/12/17)
 
 F800
 S3000
 G01
+
+Z-10
+X-2 Y-2
 M03
 
-X-2 Y-2
 X28
 Y-28
 X76 Y23
@@ -21,3 +23,5 @@ X49
 X24 Y27
 X-2
 Y-2
+
+M05

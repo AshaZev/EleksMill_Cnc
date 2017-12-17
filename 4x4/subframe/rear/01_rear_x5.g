@@ -1,7 +1,7 @@
 (by AshaZev 2017/12/10)
 (last modified 2017/12/10)
 
-F1000
+F800
 S3000
 G01
 M03
