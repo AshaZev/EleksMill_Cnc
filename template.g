@@ -1,0 +1,19 @@
+(by AshaZev 2017/12/__)
+(last modified 2017/12/__)
+
+F800
+S3000
+G01
+
+Z-10
+M03
+
+(STARTING CORDS)
+X-2 Y-2
+
+Z0
+
+(PROGRAM END)
+Z-10
+M05
+X0 Y0
