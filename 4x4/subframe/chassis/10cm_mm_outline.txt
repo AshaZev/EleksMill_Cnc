@@ -1,0 +1,18 @@
+(by AshaZev 2018/06/09)
+(last modified 2018/06/09)
+(path in mm)
+(2mm drillbit)
+
+G01 X4 Y19
+G01 Y31
+G01 X26
+G01 Y21
+G01 X31 Y16
+G01 X54
+G01 X59 Y21
+G01 Y31
+G01 X81
+G01 Y19
+G01 X66 Y4
+G01 X19
+G01 X4 Y19
