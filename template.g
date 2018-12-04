@@ -1,19 +1,21 @@
-(by AshaZev 2018/03/__)
-(last modified 2018/06/__)
+(by AshaZev 2018/__/__)
+(last modified 2018/__/__)
+(path in mm)
+(TOOL TYPE eg. 2mm drillbit)
 
-F800
+F600
 S3000
 G01
 
-Z-10
+Z-5
 M03
 
 (STARTING CORDS)
-X-2 Y-2
+X-1 Y-1
 
 Z0
 
 (PROGRAM END)
-Z-10
+Z-5
 M05
 X0 Y0
